@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @locagata99
-- 👀 I’m interested in dataviz, assessment, and bioinformatics
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on anything that sounds interesting.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
